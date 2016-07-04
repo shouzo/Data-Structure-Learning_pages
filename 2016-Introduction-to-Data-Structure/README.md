@@ -1,5 +1,5 @@
 ## 00 Overview
-- [+] 課程介紹
+- [x] 課程介紹：2016/7/4(一)
 
 
 ## 01 Getting Started
