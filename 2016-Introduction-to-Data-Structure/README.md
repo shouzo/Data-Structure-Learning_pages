@@ -1,5 +1,5 @@
 ## 00 Overview
-- [ ] 課程介紹
+- [+] 課程介紹
 
 
 ## 01 Getting Started
